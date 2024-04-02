@@ -1,4 +1,4 @@
-# Predictive_Maintainance
+# Predictive Maintainance
 
 A project done for the course Statistical Methods under <b>Dr. Sapna Shah</b> 
 <h3>Team members</h3>
@@ -7,8 +7,6 @@ A project done for the course Statistical Methods under <b>Dr. Sapna Shah</b>
 <li><b>ROHAN AJAY I050</b></li>
 
 </ul>
-<h2>Abstract</h2>
-# Predictive Maintenance Dataset Description
 
 ## Dataset Overview
 The dataset provided by the UCI repository is synthetic and mirrors real predictive maintenance scenarios encountered in industries. It comprises 10,000 data points stored as rows, each containing 14 features in columns.
@@ -28,8 +26,4 @@ The dataset provided by the UCI repository is synthetic and mirrors real predict
    - **Overstrain Failure (OSF):** If the product of tool wear and torque exceeds 11,000 minNm for the L product variant (12,000 M, 13,000 H), the process fails due to overstrain.
    - **Random Failures (RNF):** Each process has a 0.1% chance to fail regardless of its parameters. If at least one of the above failure modes is true, the process fails, and the 'machine failure' label is set to 1.
 
-### Note
-It is not transparent to the machine learning method which failure mode has caused the process to fail.
-
-<br>This model achieves a <b>Character Accuracy of 94.36% and Layout Accuracy of 81.83%</b>. Accuracy can be further increased by training our model on such similar documents.
 
