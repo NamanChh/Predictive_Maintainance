@@ -8,6 +8,12 @@ A project done for the course Statistical Methods under <b>Dr. Sapna Shah</b>
 
 </ul>
 
+## ABSTRACT
+
+Predictive maintenance is a technique used to predict when equipment or machinery is likely to fail so that maintenance can be performed just in time to prevent the failure from occurring. It utilizes machine learning and statistical modeling techniques to analyze data collected from sensors, equipment logs, historical maintenance records, and other sources to predict potential failures or breakdowns.
+
+Model Used: <b>Random Forest Classifier</b>
+
 ## Dataset Overview
 The dataset provided by the UCI repository is synthetic and mirrors real predictive maintenance scenarios encountered in industries. It comprises 10,000 data points stored as rows, each containing 14 features in columns.
 
