@@ -1,6 +1,6 @@
 # Predictive Maintainance
 
-A project done for the course Statistical Methods under <b>Dr. Sapna Shah</b> 
+A project done for the course Statistical Methods under <a href="https://github.com/sapnashah83"><b>Dr. Sapna Shah</b> 
 <h3>Team members</h3>
 <ul>
 <li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">NamanChh</a></li>
