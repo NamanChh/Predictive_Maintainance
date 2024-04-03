@@ -4,7 +4,7 @@ A project done for the course Statistical Methods under <b>Dr. Sapna Shah</b>
 <h3>Team members</h3>
 <ul>
 <li><b>NAMAN CHHAPARIA I040</b> Github: <a href="https://github.com/NamanChh">NamanChh</a></li>
-<li><b>ROHAN AJAY I050</b></li>
+<li><b>ROHAN AJAY I050</b> Github: <a href="https://github.com/Rohan-Ajay">Rohan-Ajay</a></li>
 
 </ul>
 
@@ -32,4 +32,8 @@ The dataset provided by the UCI repository is synthetic and mirrors real predict
    - **Overstrain Failure (OSF):** If the product of tool wear and torque exceeds 11,000 minNm for the L product variant (12,000 M, 13,000 H), the process fails due to overstrain.
    - **Random Failures (RNF):** Each process has a 0.1% chance to fail regardless of its parameters. If at least one of the above failure modes is true, the process fails, and the 'machine failure' label is set to 1.
 
+## Accuracy
+Here, we've used 3 training splits for our model. 0.2, 0.4 and 0.5 respectively. We noticed that we attained the maximum accuracy while using the <b>0.4 test train split</b>.
 
+## Conclusion
+In conclusion, predictive maintenance offers organizations a powerful tool for optimizing asset performance, minimizing downtime, and reducing maintenance costs. By harnessing the power of data analytics and machine learning, organizations can transition from reactive or scheduled maintenance practices to a proactive and data-driven approach, ultimately improving operational efficiency, asset reliability, and overall business performance.
